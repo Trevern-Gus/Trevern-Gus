@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Trevern-Gus
-- 👀 I’m interested in women
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email (trevernlamontagne10@gmail.com)
